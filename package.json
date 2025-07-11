@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcusdevcode/wp-plugin-react-typescript.git"
+    "url": "https://github.com/marcusdevcode/wordpress-plugin-on-react.git"
   },
   "bin": {
-    "wp-plugin-react-typescript": "bundle.mjs"
+    "wordpress-plugin-on-react": "main.mjs"
   }
 }

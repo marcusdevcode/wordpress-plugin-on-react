@@ -101,4 +101,3 @@ const nameToSlugCapitalize = (meaning) => {
 	return capitalize(meaning_name);
 }
 await nameYourPlugin(text);
-// console.log(cwd);

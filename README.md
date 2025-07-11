@@ -1,1 +1,1 @@
-# wordpress-plugin-on-react
+# WordPress plugin on react
