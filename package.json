@@ -18,6 +18,6 @@
     "url": "https://github.com/marcusdevcode/wordpress-plugin-on-react.git"
   },
   "bin": {
-    "wordpress-plugin-on-react": "main.mjs"
+    "wordpress-react-plugin": "main.mjs"
   }
 }
